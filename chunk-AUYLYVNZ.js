@@ -1,0 +1,1 @@
+import"./chunk-ODN5LVDJ.js";var o=[{path:"",data:{title:"H1"},children:[{path:"",redirectTo:"editor",pathMatch:"full"},{path:"editor",loadComponent:()=>import("./chunk-BPA4NZ5I.js").then(t=>t.EditorComponent),data:{title:"Editor"}}]}];export{o as routes};
